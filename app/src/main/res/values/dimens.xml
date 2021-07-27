@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin_size">5dp</dimen>
+    <dimen name="text_view_default_text_size">20sp</dimen>
+    <dimen name="text_view_values_text_size">25sp</dimen>
+    <dimen name="value_field_start_margin_size">15dp</dimen>
+</resources>
