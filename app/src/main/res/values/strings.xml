@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">WeatherTestTask</string>
-    <string name="search_by_text">Search by City Name</string>
+    <string name="search_by_city_name">Search by City Name</string>
+    <string name="search_by_coordinates">Search by coordinates</string>
     <string name="enter_city_name_hint">Enter city name</string>
     <string name="location_label_text">Location</string>
     <string name="temperature_label_text">Temperature</string>
@@ -16,4 +17,11 @@
     <string name="language">en</string>
     <string name="weather_not_found_message">Weather not found. Check the spelling of the city name</string>
     <string name="no_weather_text">To display the weather, complete the request by clicking on the button</string>
+    <string name="get_weather_by_your_coordinates">Get weather by your coordinates</string>
+    <string name="access_to_fine_location_text">Access to fine location</string>
+    <string name="explanation_of_fine_location_permission">To work in this window you need permission access to fine location. Grant permission in phone settings</string>
+    <string name="close_button_text">Close</string>
+    <string name="access_to_fine_location_title">Access to fine location</string>
+    <string name="grant_access_button_text">Grant access</string>
+    <string name="negative_button_text">Do not</string>
 </resources>
