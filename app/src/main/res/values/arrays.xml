@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="get_weather_types">
+        <item>@string/search_by_city_name</item>
+        <item>@string/search_by_coordinates</item>
+    </string-array>
+</resources>
